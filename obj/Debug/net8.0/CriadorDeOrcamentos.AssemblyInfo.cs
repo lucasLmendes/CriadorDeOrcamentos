@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CriadorDeOrcamentos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+64497b0e9035b20a41472446e3bd32129ca70c97")]
 [assembly: System.Reflection.AssemblyProductAttribute("CriadorDeOrcamentos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CriadorDeOrcamentos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

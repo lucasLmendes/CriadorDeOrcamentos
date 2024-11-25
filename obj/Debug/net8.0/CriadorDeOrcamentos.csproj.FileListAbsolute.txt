@@ -12,3 +12,4 @@ C:\Users\LLM\DevFolder\CriadorDeOrcamentos\obj\Debug\net8.0\refint\CriadorDeOrca
 C:\Users\LLM\DevFolder\CriadorDeOrcamentos\obj\Debug\net8.0\CriadorDeOrcamentos.pdb
 C:\Users\LLM\DevFolder\CriadorDeOrcamentos\obj\Debug\net8.0\CriadorDeOrcamentos.genruntimeconfig.cache
 C:\Users\LLM\DevFolder\CriadorDeOrcamentos\obj\Debug\net8.0\ref\CriadorDeOrcamentos.dll
+C:\Users\LLM\DevFolder\CriadorDeOrcamentos\obj\Debug\net8.0\CriadorDeOrcamentos.sourcelink.json

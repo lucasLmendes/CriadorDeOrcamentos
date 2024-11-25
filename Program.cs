@@ -34,10 +34,28 @@ do
             string nomeDaPeca = Console.ReadLine() ?? "Peça em branco";
 
             System.Console.WriteLine("Quantas unidades deseja adicionar?");
-            double quantidadeDePecas = double.Parse(Console.ReadLine() ?? "0");
+            double quantidadeDePecas;
+            while (true)
+            {
+                if (double.TryParse(Console.ReadLine(), out quantidadeDePecas) && quantidadeDePecas > 0) {
+                    break;
+                }
+                else {
+                    Console.WriteLine("Por favor, insira um número válido.");
+                }
+            }
 
             System.Console.WriteLine("Qual o valor unitário da peça?");
-            double valorUnitario = double.Parse(Console.ReadLine() ?? "0");
+            double valorUnitario;
+            while (true)
+            {
+                if (double.TryParse(Console.ReadLine(), out valorUnitario) && valorUnitario > 0) {
+                    break;
+                }
+                else {
+                    System.Console.WriteLine("Por favor, insira um número válido.");
+                }
+            }
 
             double valorTotal = valorUnitario * quantidadeDePecas;  
 
