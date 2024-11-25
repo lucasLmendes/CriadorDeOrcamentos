@@ -1,0 +1,14 @@
+C:\Users\LLM\DevFolder\CriadorDeOrcamentos\bin\Debug\net8.0\CriadorDeOrcamentos.exe
+C:\Users\LLM\DevFolder\CriadorDeOrcamentos\bin\Debug\net8.0\CriadorDeOrcamentos.deps.json
+C:\Users\LLM\DevFolder\CriadorDeOrcamentos\bin\Debug\net8.0\CriadorDeOrcamentos.runtimeconfig.json
+C:\Users\LLM\DevFolder\CriadorDeOrcamentos\bin\Debug\net8.0\CriadorDeOrcamentos.dll
+C:\Users\LLM\DevFolder\CriadorDeOrcamentos\bin\Debug\net8.0\CriadorDeOrcamentos.pdb
+C:\Users\LLM\DevFolder\CriadorDeOrcamentos\obj\Debug\net8.0\CriadorDeOrcamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LLM\DevFolder\CriadorDeOrcamentos\obj\Debug\net8.0\CriadorDeOrcamentos.AssemblyInfoInputs.cache
+C:\Users\LLM\DevFolder\CriadorDeOrcamentos\obj\Debug\net8.0\CriadorDeOrcamentos.AssemblyInfo.cs
+C:\Users\LLM\DevFolder\CriadorDeOrcamentos\obj\Debug\net8.0\CriadorDeOrcamentos.csproj.CoreCompileInputs.cache
+C:\Users\LLM\DevFolder\CriadorDeOrcamentos\obj\Debug\net8.0\CriadorDeOrcamentos.dll
+C:\Users\LLM\DevFolder\CriadorDeOrcamentos\obj\Debug\net8.0\refint\CriadorDeOrcamentos.dll
+C:\Users\LLM\DevFolder\CriadorDeOrcamentos\obj\Debug\net8.0\CriadorDeOrcamentos.pdb
+C:\Users\LLM\DevFolder\CriadorDeOrcamentos\obj\Debug\net8.0\CriadorDeOrcamentos.genruntimeconfig.cache
+C:\Users\LLM\DevFolder\CriadorDeOrcamentos\obj\Debug\net8.0\ref\CriadorDeOrcamentos.dll
